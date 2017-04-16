@@ -1,0 +1,7 @@
+<div class="subcontent">
+	<h2 class="title">HAIKAL AZIZAN (Version 2)</h2>
+	<p class="text-justify">&nbsp; &nbsp; &nbsp; I've upgraded my website to latest version so that it's more lighter, friendly and tidy. In this version, I want to share all my experiences related to IT. So, I've been using Linux operating systems such as Backtrack 5, Kali Linux, Kali Sana, and Linux Mint in the last two years either in the form of a Virtual Machine (VMWare/VirtualBox) or a real machine. And now I'm using Ubuntu version 14.04 with long time support as my primary operating system.</p>
+	<p class="text-justify">&nbsp; &nbsp; &nbsp; So that, I like to program since I was 13 years old. I first learned how to program a basic website using HTML (Hypertext Markup Language). And then, I started to learn how to use Javascript into HTML. Next, I learnt how to design a website using Cascading Stylesheet (CSS). These three elements play an important role in web development. Until now, I've learnt how to develop a system on the website in PHP language using Object Oriented Programming (OOP) coding style.</p>
+	<p align="center"><img src="./img/sc1.png"/><br/><small><i>'index.php'</i> using OOP PHP</small></p>
+	<p align="center"><img src="./img/sc2.png"/></p>
+</div>
